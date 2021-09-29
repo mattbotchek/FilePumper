@@ -1,3 +1,5 @@
+NOTE: I made this wonderfully terrible idea when I was about 14-15, and looking back, I deeply regret how poorly I did with this. That is all  
+  
   The file pumper has three options that you can chose from when using the program. The infinite file generator, the file pumper 
 (files a file with random numbers) and the single file creator (Usually used for pumping a file)
 
