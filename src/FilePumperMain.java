@@ -1,5 +1,5 @@
 //Created by Matthew Botchek
-//LEAVE THIS IN ^^
+//Please... take it out if for some reason you ever come across this. I'll leave it there as a reminder to myself...
 import java.io.IOException;
 import java.util.Scanner;
 public class FilePumperMain {
